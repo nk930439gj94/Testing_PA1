@@ -2,4 +2,3 @@ out
 *.o
 src/atpg
 bin
-sample_circuits/*.ckt.uf
